@@ -1,2 +1,2 @@
-# longImage-to-PDF
-Split image to generate pdf file
+# longpicture-to-PDF
+Split picture to generate pdf file
